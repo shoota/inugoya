@@ -17,8 +17,8 @@ app.on('ready', function() {
 
   // Create the browser window.
   mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1000,
+    height: 750,
     minWidth: 500,
     minHeight: 200,
     acceptFirstMouse: true,
